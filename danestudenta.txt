@@ -1,0 +1,6 @@
+
+130775
+Imie nazwisko: AK
+Wydzial: WIM
+Kierunek: MCH
+Przedmiot: KSM
